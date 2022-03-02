@@ -1,5 +1,4 @@
-// const KEY = "AIzaSyBRXB1qULeXmxIfghs7xd2y6D4v9qhdg2c"
-const KEY = "AIzaSyA6et_wfOmzhUlQF8Lm0hQOqXo20hotupU"
+const KEY = "GOOGLEAPIKEY"
 
 let term = "cars"
 let listToDisplay = []
